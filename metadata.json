@@ -1,0 +1,7 @@
+{
+  "name": "PlainSpeak: AI Accessibility Specialist",
+  "description": "A tool that translates complex legal, medical, or bureaucratic jargon into clear, simple language that a 10-year-old can understand. Focuses on accessibility, clarity, and actionable steps.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
